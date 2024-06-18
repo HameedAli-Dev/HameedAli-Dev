@@ -1,6 +1,8 @@
 ## Welcome to My Profile!
 
-👋 Hello there! I'm a certified, top-rated, award-winning Full Stack Web Developer with a passion for crafting exceptional digital experiences. With over eight years of hands-on experience since 2016, I specialize in creating dynamic applications, captivating websites, and engaging landing pages. My expertise spans across the entire spectrum of web development, including front-end, back-end, and WordPress customization.
+👋 Hello there! 
+
+META-certified, top-rated, award-winning Full Stack Web Developer with a passion for crafting exceptional digital experiences. With over Five years of hands-on experience, I specialize in creating dynamic applications, captivating websites, and engaging landing pages. My expertise spans across the entire spectrum of web development, including front-end, back-end, and WordPress customization.
 
 ### Why Choose Me?
 
