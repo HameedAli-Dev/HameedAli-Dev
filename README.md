@@ -4,7 +4,7 @@
 🚀 **Full Stack WordPress & AI Automation Developer**  
 🎯 Building intelligent, high-performance digital solutions that engage, convert, and scale.
 
----
+--- 
 
 ### 💡 About Me
 I’m a **META-certified**, **top-rated**, and **award-winning developer** with over **6 years of experience** creating **custom WordPress** and **AI-powered web applications**.  
