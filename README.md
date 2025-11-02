@@ -6,7 +6,7 @@
 
 --- 
 
-### 💡 About Me
+### 💡 About Me 
 I’m a **META-certified**, **top-rated**, and **award-winning developer** with over **6 years of experience** creating **custom WordPress** and **AI-powered web applications**.  
 My focus is on combining **modern web development** with **smart automation**, helping brands enhance efficiency, performance, and customer engagement.
 
