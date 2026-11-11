@@ -1,6 +1,6 @@
 # Hi, I'm Hameed Ali 👋
 
-### Full-Stack Developer · WordPress, MERN & AI Automation
+### Full-Stack Developer · WordPress, Shopify, MERN & AI Automation
 
 I build fast, thoughtful digital products that help businesses work smarter. My work brings together custom WordPress development, practical AI integrations, and clean user experiences.
 
@@ -11,7 +11,7 @@ I build fast, thoughtful digital products that help businesses work smarter. My 
 ## 👨‍💻 About me
 
 - **6+ years** building websites and web applications
-- Focused on **WordPress, WooCommerce, and AI-powered automation**
+- Focused on **WordPress, Shopify, and AI-powered automation**
 - Delivered **30+ projects** for clients around the world
 - Based in **Lahore, Pakistan**
 - I value clear communication, reliable delivery, and maintainable code
@@ -20,7 +20,7 @@ I build fast, thoughtful digital products that help businesses work smarter. My 
 
 | WordPress & e-commerce | AI & automation |
 | --- | --- |
-| Custom themes, plugins, and Gutenberg blocks | AI integrations, chatbots, and smart forms |
+| WordPress and Shopify themes, plugins, and storefronts | AI integrations, chatbots, and smart forms |
 | WooCommerce stores and API integrations | Workflow automation with Zapier, Make, and Python |
 | Performance, accessibility, and technical SEO | Practical tools that reduce repetitive work |
 
@@ -34,7 +34,7 @@ I build fast, thoughtful digital products that help businesses work smarter. My 
 
 ## 🧰 Technologies
 
-**Web:** WordPress · PHP · JavaScript · React · Vue · HTML · CSS · Tailwind CSS  
+**Web & commerce:** WordPress · WooCommerce · Shopify · Liquid · PHP · JavaScript · React · Vue · HTML · CSS · Tailwind CSS
 **Backend & data:** Node.js · Express · Laravel · MySQL · MongoDB · REST APIs · GraphQL  
 **AI & automation:** OpenAI · ChatGPT · LangChain · Zapier · Make · Python  
 **Design & delivery:** Figma · Adobe XD · Photoshop · Illustrator · Git · GitHub Actions  
@@ -42,7 +42,7 @@ I build fast, thoughtful digital products that help businesses work smarter. My 
 
 ## 🤝 Let's work together
 
-Have a WordPress build, WooCommerce project, or automation idea? [Get in touch](mailto:hameedalidaar@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/hameed-ali/).
+Have a WordPress or Shopify build, e-commerce project, or automation idea? [Get in touch](mailto:hameedalidaar@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/hameed-ali/).
 
 <p align="center"><sub>Building useful things with care, curiosity, and a little automation ✨</sub></p>
 
