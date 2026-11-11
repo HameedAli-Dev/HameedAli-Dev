@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile-header.gif" alt="Animated Hameed Ali profile header" width="100%">
+</p>
+
 # Hi, I'm Hameed Ali 👋
 
 ### Full-Stack WordPress Developer · AI & Workflow Automation
