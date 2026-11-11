@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="profile-header.gif" alt="Animated Hameed Ali profile header" width="100%">
-</p>
-
 # Hi, I'm Hameed Ali 👋
 
-### Full-Stack WordPress Developer · AI & Workflow Automation
+### Full-Stack Developer · WordPress, MERN & AI Automation
 
 I build fast, thoughtful digital products that help businesses work smarter. My work brings together custom WordPress development, practical AI integrations, and clean user experiences.
 
@@ -27,6 +23,14 @@ I build fast, thoughtful digital products that help businesses work smarter. My 
 | Custom themes, plugins, and Gutenberg blocks | AI integrations, chatbots, and smart forms |
 | WooCommerce stores and API integrations | Workflow automation with Zapier, Make, and Python |
 | Performance, accessibility, and technical SEO | Practical tools that reduce repetitive work |
+
+## ⚡ MERN Stack
+
+- **MongoDB** — document data modeling and application data storage
+- **Express.js & Node.js** — backend services, middleware, and REST API development
+- **React** — reusable component-based interfaces and frontend integrations
+- **Full-stack integration** — connecting React apps to Node/Express APIs and MongoDB
+- **JavaScript** — modern ES6+, asynchronous workflows, and JSON-based APIs
 
 ## 🧰 Technologies
 
