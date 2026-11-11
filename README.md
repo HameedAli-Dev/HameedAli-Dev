@@ -36,9 +36,4 @@ I build fast, thoughtful digital products that help businesses work smarter. My 
 
 Have a WordPress build, WooCommerce project, or automation idea? [Get in touch](mailto:hameedalidaar@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/hameed-ali/).
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HameedAli-Dev&show_icons=true&hide_border=true&theme=tokyonight" height="160" alt="Hameed Ali's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HameedAli-Dev&layout=compact&hide_border=true&theme=tokyonight" height="160" alt="Most used programming languages" />
-</p>
-
 <p align="center"><sub>Building useful things with care, curiosity, and a little automation ✨</sub></p>
