@@ -1,113 +1,44 @@
-## 👋 Welcome to My Profile!
+# Hi, I'm Hameed Ali 👋
 
-### Hi there, I'm **Hameed Ali**  
-🚀 **Full Stack WordPress & AI Automation Developer**  
-🎯 Building intelligent, high-performance digital solutions that engage, convert, and scale.
+### Full-Stack WordPress Developer · AI & Workflow Automation
 
---- 
+I build fast, thoughtful digital products that help businesses work smarter. My work brings together custom WordPress development, practical AI integrations, and clean user experiences.
 
-### 💡 About Me 
-I’m a **META-certified**, **top-rated**, and **award-winning developer** with over **6 years of experience** creating **custom WordPress** and **AI-powered web applications**.  
-My focus is on combining **modern web development** with **smart automation**, helping brands enhance efficiency, performance, and customer engagement.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hameed-ali/) [![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hameedalidaar@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HameedAli-Dev)
 
 ---
 
-### ⚙️ Why Choose Me
-- **WordPress Expert:** End-to-end theme and plugin development, WooCommerce customization, and API integrations.  
-- **AI & Automation:** ChatGPT, OpenAI API, Zapier, Make (Integromat), and Python-based automation workflows.  
-- **Pixel-Perfect Craftsmanship:** Every build is responsive, SEO-ready, and optimized for Core Web Vitals.  
-- **Client-Focused:** I prioritize communication, transparency, and reliability — no surprises, just results.
+## 👨‍💻 About me
 
----
+- **6+ years** building websites and web applications
+- Focused on **WordPress, WooCommerce, and AI-powered automation**
+- Delivered **30+ projects** for clients around the world
+- Based in **Lahore, Pakistan**
+- I value clear communication, reliable delivery, and maintainable code
 
-### 🧠 My Core Skill Set
+## 🚀 What I do
 
-**Web & CMS Development**
-- WordPress, WooCommerce, PHP, MySQL, REST APIs  
-- Advanced Custom Fields (ACF), CPT UI, WPML, BuddyPress  
-- Theme & Plugin Development, Custom Gutenberg Blocks  
+| WordPress & e-commerce | AI & automation |
+| --- | --- |
+| Custom themes, plugins, and Gutenberg blocks | AI integrations, chatbots, and smart forms |
+| WooCommerce stores and API integrations | Workflow automation with Zapier, Make, and Python |
+| Performance, accessibility, and technical SEO | Practical tools that reduce repetitive work |
 
-**Front-End Development**
-- HTML5, CSS3, SCSS/SASS, Bootstrap, Tailwind CSS  
-- JavaScript (ES6+), React.js (Integrations), Vue.js, jQuery  
-- Responsive, Accessible UI with clean and scalable code  
+## 🧰 Technologies
 
-**AI & Automation**
-- OpenAI API, ChatGPT, LangChain, Zapier, Make (Integromat)  
-- AI Content Generation, Workflow Automation, and Smart Forms  
+**Web:** WordPress · PHP · JavaScript · React · Vue · HTML · CSS · Tailwind CSS  
+**Backend & data:** Node.js · Express · Laravel · MySQL · MongoDB · REST APIs · GraphQL  
+**AI & automation:** OpenAI · ChatGPT · LangChain · Zapier · Make · Python  
+**Design & delivery:** Figma · Adobe XD · Photoshop · Illustrator · Git · GitHub Actions  
+**Cloud & hosting:** AWS · DigitalOcean · Vercel · Netlify · Cloudflare
 
-**Backend & APIs**
-- Node.js, Express.js, Laravel (basic familiarity)  
-- RESTful & GraphQL API Development  
-- Integration with Payment Gateways (Stripe, PayPal, 2Checkout)  
+## 🤝 Let's work together
 
-**Performance & SEO**
-- Core Web Vitals, PageSpeed Insights, Caching, CDN (Cloudflare)  
-- Schema Markup, On-Page SEO, Technical Optimization  
+Have a WordPress build, WooCommerce project, or automation idea? [Get in touch](mailto:hameedalidaar@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/hameed-ali/).
 
-**Design & Prototyping**
-- Figma, Adobe XD, Photoshop, Illustrator  
-- PSD/XD/Figma to WordPress or HTML Conversion  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HameedAli-Dev&show_icons=true&hide_border=true&theme=tokyonight" height="160" alt="Hameed Ali's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HameedAli-Dev&layout=compact&hide_border=true&theme=tokyonight" height="160" alt="Most used programming languages" />
+</p>
 
-**Hosting & DevOps**
-- Git, GitHub Actions, cPanel, AWS, DigitalOcean, Vercel, Netlify  
-- Domain & DNS Configuration, SSL, Server Optimization  
-
----
-
-### 🛠️ Languages and Tools
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/wordpress/wordpress.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-![OpenAI](https://img.shields.io/badge/OpenAI-API-111827?logo=openai&logoColor=white)
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
-
-
----
-
-### 🚀 What I Can Do for You
-- Convert **Figma / XD / PSD** into custom, high-speed WordPress sites  
-- Build **AI-integrated systems** for automation, chatbots, and smart content  
-- Develop **WooCommerce** stores and advanced booking systems  
-- Optimize websites for **performance, accessibility, and SEO**  
-- Maintain and scale existing web platforms with best-practice code  
-
----
-
-### 🏆 Highlights
-- 💻 6+ Years of Professional Development Experience  
-- 🌍 Delivered 30+ Projects for Global Clients  
-- ⭐ Top-Rated Freelancer on Upwork & Other Platforms  
-- 🧠 Known for innovation, problem-solving, and clear communication  
-
----
-
-### 🤝 Let’s Connect  
- 
-💼 [LinkedIn](https://www.linkedin.com/in/hameed-ali/)  
-💌 [Email Me](mailto:hameedalidaar@gmail.com)  
-🖥️ [Portfolio Website](#)
-
----
-
-### ✨ “I don’t just build websites — I craft intelligent, automated experiences that grow your business.”  
-
----
-
-
-### ⚡ GitHub Analytics & Stats
-<p align="center"> <a href="https://github.com/HameedAli-Dev"> <img src="https://github-readme-stats.vercel.app/api?username=HameedAli-Dev&show_icons=true&theme=tokyonight&hide_border=false" alt="Hameed Ali GitHub Stats" height="160"/> <img src="https://streak-stats.vercel.app?user=yourusername&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" height="160"/> </a> </p> <p align="center"> <a href="https://github.com/HameedAli-Dev"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HameedAli-Dev&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages by Hameed Ali" height="160"/> </a> </p> <p align="center"> <a href="https://github.com/HameedAli-Dev"> <img src="https://github-profile-trophy.vercel.app/?username=HameedAli-Dev&theme=onedark&no-frame=true&margin-w=5" alt="GitHub Trophies by Hameed Ali" height="150"/> </a> </p> <p align="center"> <a href="https://github.com/HameedAli-Dev"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=HameedAli-Dev&theme=tokyo-night" alt="Hameed Ali GitHub Activity Graph"/> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=hameedali-dev&style=for-the-badge&color=blueviolet" alt="Profile Views Counter"/> </p>
+<p align="center"><sub>Building useful things with care, curiosity, and a little automation ✨</sub></p>
