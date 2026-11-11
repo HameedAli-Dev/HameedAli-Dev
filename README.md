@@ -32,11 +32,19 @@ I build fast, thoughtful digital products that help businesses work smarter. My 
 - **Full-stack integration** — connecting React apps to Node/Express APIs and MongoDB
 - **JavaScript** — modern ES6+, asynchronous workflows, and JSON-based APIs
 
+## 🤖 AI Tools, Agents & Automation
+
+- **OpenAI Codex** — AI-assisted coding, project changes, and development workflows
+- **Google Antigravity** — agent-assisted development and task workflows
+- **Claude** — AI-assisted coding, analysis, and content workflows
+- **AI agents** — building task-focused assistants and multi-step workflows
+- **Automation** — connecting APIs and services with Python, Zapier, and Make
+
 ## 🧰 Technologies
 
 **Web & commerce:** WordPress · WooCommerce · Shopify · Liquid · PHP · JavaScript · React · Vue · HTML · CSS · Tailwind CSS
 **Backend & data:** Node.js · Express · Laravel · MySQL · MongoDB · REST APIs · GraphQL  
-**AI & automation:** OpenAI · ChatGPT · LangChain · Zapier · Make · Python  
+**AI & automation:** OpenAI · Codex · Antigravity · Claude · AI agents · LangChain · Zapier · Make · Python<br>
 **Design & delivery:** Figma · Adobe XD · Photoshop · Illustrator · Git · GitHub Actions  
 **Cloud & hosting:** AWS · DigitalOcean · Vercel · Netlify · Cloudflare
 
